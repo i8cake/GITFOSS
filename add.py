@@ -1,3 +1,3 @@
 a=input()
 b=input()
-print(a+b)
+print "sum is",a+b
